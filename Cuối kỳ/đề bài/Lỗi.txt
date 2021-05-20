@@ -1,0 +1,22 @@
+debug
+phím tắt debug, khi đã attach rồi thì al+ shift + p
+
+
+đổi employeecode ngay trong debug - quick watch
+pin dữ liệu
+
+check trong immediate window
+
+-> chủ động debug bài
+-> component có thể tái sử dụng (lớn nhất hay nhỏ nhất): Refactor code
+-> Làm đủ yêu cầu, không làm thừa. không chấp nhận làm thêm, hỏi lại nếu thấy khó hiểu
+-> quy tắc đặt tên hợp lý, đúng với dự án 
+-> Làm đúng UI (css)
+-> dữ liệu hợp lý
+->TÌm kiếm và phân trang sử đụng api
+sử dụng enums cho thông báo, resource cho cả front end và back end, không fix code
+comment code đầy đủ, đúng định dạng, có người tạo và ngày tạo
+Kỹ năng debug (2 ngày xem video + học từ khóa)
+
+Thêm: Nhân bản dữ liệu, gán selectedEmployee cho biến mới và thêm maxCode
+Thêm: Chỉnh sửa file excel khi export

@@ -1,0 +1,115 @@
+.data {
+  flex: 1;
+  /* background-color: red; */
+  padding-bottom: 16px;
+  overflow: hidden;
+  /* height: 900px; */
+  height: calc(100% - 96px);
+  
+}
+
+  .scroll {
+    margin: 0 16px;
+    height: 100%;
+    overflow: auto;
+    white-space: nowrap;
+    display: flex;
+    /* background-color: aqua; */
+  }
+
+  
+  .table {
+    width: 100%;
+    /* border-collapse: collapse; */
+    border-collapse: separate;
+    border-spacing: 0;
+    
+  }
+  .table th,
+  .table td {
+      /* border: 1px solid #ccc; */
+      border-bottom: 1px solid #ccc;
+      border-right: 1px solid #ccc;
+      text-align: left;
+      padding: 0 16px;
+    }
+    .table thead tr {
+        height: 32px;
+    }
+    .table thead tr th {
+          background-color: #f4f5f6;
+          position: sticky;
+          top: 0px;
+          border-top: none;
+          border-bottom: 1px solid #ccc;
+          /* box-shadow:0 1px #ccc; */
+    }
+    .table thead tr th:first-child {
+          z-index: 1;
+          left: 0px;
+          border-right: 1px solid #ccc;
+    }
+    .table thead tr th:last-child{
+      /* background-color: aqua; */
+      border-right: none;
+    }
+      
+    
+    .table tbody tr {
+        height: 48px; 
+    }
+    .table tbody tr td:first-child {
+          position: sticky;
+          left: 0px;
+          background-color: white;
+          /* border-left:1px solid #ccc; */
+          border-right: 1px solid #ccc;
+        }
+        
+        .table tbody tr td:last-child {
+          
+          border-right: none;
+        }
+       
+
+ .table1{
+   width: 20%;
+  border-collapse: separate;
+  border-spacing: 0;
+ 
+
+ }
+  .table1 th,
+  .table1 td {
+    /* border: 1px solid #ccc; */
+    border-bottom: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    text-align: left;
+    padding: 0 16px;
+  }
+
+  .table1 thead tr {
+      height: 32px;
+    }
+    .table1 thead tr th {
+        background-color: #f4f5f6;
+        position: sticky;
+        top: 0px;
+        border-top: none;
+        border-bottom: 1px solid #ccc;
+        /* box-shadow:0 1px #ccc; */
+      }
+      .table1 thead tr th:first-child {
+        z-index: 1;
+        left: 0px;
+        
+      }
+      
+   
+
+      .table1 tbody tr {
+      height: 48px;
+      
+    }
+ 
+ 

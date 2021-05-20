@@ -1,0 +1,29 @@
+input[type="radio"]{
+    width: 18px;
+    height: 18px;
+    appearance: none;
+    -webkit-appearance: none;
+    border-radius: 50%;
+    background: white;
+    border: 1px solid #afafaf;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+input:checked[type="radio"]{
+    border: 1px solid #2ca01c;
+}
+
+input[type="radio"]::before{
+    content: "";
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: #2ca01c;
+    display: none;
+}
+
+input:checked[type="radio"]::before{
+    display: block;
+}

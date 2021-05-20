@@ -1,0 +1,22 @@
+
+- Học debug -> thực hành debug
+
+
+
+
+
+-Thư viện ALMD
+
+
+
+Sửa employeeDetail
+2. ngày sinh (thêm icon + sửa lỗi mất 1 ngày)
+3. Combobox (thêm sự kiện dùng bàn phím)
+4. router (thêm router mẫu)
+6. Kiểm tra vẽ lại UI (optionBox)
+Học debug
+Comment code + region code đầy đủ + tối ưu code
+
+8. Chỉnh sửa font chữ + css
+
+

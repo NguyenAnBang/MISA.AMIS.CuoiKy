@@ -1,0 +1,45 @@
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\bin\Debug\net5.0\MISA.AMIS.Core.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\obj\Debug\net5.0\MISA.AMIS.Infrastructure.csprojAssemblyReference.cache
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\obj\Debug\net5.0\MISA.AMIS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\obj\Debug\net5.0\MISA.AMIS.Infrastructure.AssemblyInfoInputs.cache
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\obj\Debug\net5.0\MISA.AMIS.Infrastructure.AssemblyInfo.cs
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\bin\Debug\net5.0\MISA.AMIS.Infrastructure.deps.json
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\bin\Debug\net5.0\MISA.AMIS.Infrastructure.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\bin\Debug\net5.0\ref\MISA.AMIS.Infrastructure.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\bin\Debug\net5.0\MISA.AMIS.Infrastructure.pdb
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\bin\Debug\net5.0\MISA.AMIS.Core.pdb
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\obj\Debug\net5.0\MISA.AMIS.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\obj\Debug\net5.0\MISA.AMIS.Infrastructure.csproj.CopyComplete
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\obj\Debug\net5.0\MISA.AMIS.Infrastructure.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\obj\Debug\net5.0\ref\MISA.AMIS.Infrastructure.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\obj\Debug\net5.0\MISA.AMIS.Infrastructure.pdb
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\bin\Debug\net5.0\MISA.AMIS.Infrastructure.deps.json
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\bin\Debug\net5.0\MISA.AMIS.Infrastructure.dll
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\bin\Debug\net5.0\ref\MISA.AMIS.Infrastructure.dll
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\bin\Debug\net5.0\MISA.AMIS.Infrastructure.pdb
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\bin\Debug\net5.0\MISA.AMIS.Core.dll
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\bin\Debug\net5.0\MISA.AMIS.Core.pdb
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\obj\Debug\net5.0\MISA.AMIS.Infrastructure.csprojAssemblyReference.cache
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\obj\Debug\net5.0\MISA.AMIS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\obj\Debug\net5.0\MISA.AMIS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\obj\Debug\net5.0\MISA.AMIS.Infrastructure.AssemblyInfo.cs
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\obj\Debug\net5.0\MISA.AMIS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\obj\Debug\net5.0\MISA.AMIS.Infrastructure.csproj.CopyComplete
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\obj\Debug\net5.0\MISA.AMIS.Infrastructure.dll
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\obj\Debug\net5.0\ref\MISA.AMIS.Infrastructure.dll
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\obj\Debug\net5.0\MISA.AMIS.Infrastructure.pdb
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\bin\Debug\net5.0\MISA.AMIS.Infrastructure.deps.json
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\bin\Debug\net5.0\MISA.AMIS.Infrastructure.dll
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\bin\Debug\net5.0\ref\MISA.AMIS.Infrastructure.dll
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\bin\Debug\net5.0\MISA.AMIS.Infrastructure.pdb
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\bin\Debug\net5.0\MISA.AMIS.Core.dll
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\bin\Debug\net5.0\MISA.AMIS.Core.pdb
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\obj\Debug\net5.0\MISA.AMIS.Infrastructure.csprojAssemblyReference.cache
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\obj\Debug\net5.0\MISA.AMIS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\obj\Debug\net5.0\MISA.AMIS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\obj\Debug\net5.0\MISA.AMIS.Infrastructure.AssemblyInfo.cs
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\obj\Debug\net5.0\MISA.AMIS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\obj\Debug\net5.0\MISA.AMIS.Infrastructure.csproj.CopyComplete
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\obj\Debug\net5.0\MISA.AMIS.Infrastructure.dll
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\obj\Debug\net5.0\ref\MISA.AMIS.Infrastructure.dll
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.Infrastructure\obj\Debug\net5.0\MISA.AMIS.Infrastructure.pdb

@@ -1,0 +1,123 @@
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\appsettings.Development.json
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\appsettings.json
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.exe
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.deps.json
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.runtimeconfig.json
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.runtimeconfig.dev.json
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\ref\MISA.AMIS.API.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.pdb
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Dapper.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MySqlConnector.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.Core.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.Infrastructure.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.Core.pdb
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.Infrastructure.pdb
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.csprojAssemblyReference.cache
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.AssemblyInfoInputs.cache
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.AssemblyInfo.cs
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.csproj.CoreCompileInputs.cache
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\staticwebassets\MISA.AMIS.API.StaticWebAssets.Manifest.cache
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\staticwebassets\MISA.AMIS.API.StaticWebAssets.xml
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\scopedcss\bundle\MISA.AMIS.API.styles.css
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.RazorTargetAssemblyInfo.cache
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.csproj.CopyComplete
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\ref\MISA.AMIS.API.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.pdb
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.genruntimeconfig.cache
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\EPPlus.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.Properties.Resources.resources
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.csproj.GenerateResource.cache
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\appsettings.json
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.exe
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.deps.json
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.runtimeconfig.json
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.runtimeconfig.dev.json
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.dll
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\ref\MISA.AMIS.API.dll
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.pdb
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Dapper.dll
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\EPPlus.dll
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.Core.dll
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.Infrastructure.dll
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.Core.pdb
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.Infrastructure.pdb
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.csprojAssemblyReference.cache
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.Properties.Resources.resources
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.csproj.GenerateResource.cache
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.AssemblyInfoInputs.cache
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.AssemblyInfo.cs
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.csproj.CoreCompileInputs.cache
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\staticwebassets\MISA.AMIS.API.StaticWebAssets.Manifest.cache
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\staticwebassets\MISA.AMIS.API.StaticWebAssets.xml
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\scopedcss\bundle\MISA.AMIS.API.styles.css
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.RazorTargetAssemblyInfo.cache
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.csproj.CopyComplete
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.dll
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\ref\MISA.AMIS.API.dll
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.pdb
+C:\Users\TEMP\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.genruntimeconfig.cache
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\appsettings.json
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.exe
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.deps.json
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.runtimeconfig.json
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.runtimeconfig.dev.json
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.dll
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\ref\MISA.AMIS.API.dll
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.pdb
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Dapper.dll
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\EPPlus.dll
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.Core.dll
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.Infrastructure.dll
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.Core.pdb
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.Infrastructure.pdb
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.csprojAssemblyReference.cache
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.Properties.Resources.resources
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.csproj.GenerateResource.cache
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.AssemblyInfoInputs.cache
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.AssemblyInfo.cs
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.csproj.CoreCompileInputs.cache
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\staticwebassets\MISA.AMIS.API.StaticWebAssets.Manifest.cache
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\staticwebassets\MISA.AMIS.API.StaticWebAssets.xml
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\scopedcss\bundle\MISA.AMIS.API.styles.css
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.RazorTargetAssemblyInfo.cache
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.csproj.CopyComplete
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.dll
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\ref\MISA.AMIS.API.dll
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.pdb
+C:\Users\nabang\Downloads\Cuối kỳ\API\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.genruntimeconfig.cache
